@@ -152,10 +152,10 @@ a.twitter {
   background-image: url(http://www.iconsdb.com/icons/preview/royal-azure-blue/twitter-xxl.png);
 }
 a.linkedin {
-  background-image: url(images/linkedin.svg);
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png);
 }
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png);
 }
 a.social:hover {
   opacity: 1;
