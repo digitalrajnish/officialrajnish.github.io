@@ -157,6 +157,12 @@ a.linkedin {
 a.github {
   background-image: url(https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png);
 }
+a.facebook {
+  background-image: url(http://www.iconsdb.com/icons/preview/navy-blue/facebook-7-xxl.png);
+}
+a.instagram {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2000px-Instagram_logo_2016.svg.png);
+}
 a.social:hover {
   opacity: 1;
 }
