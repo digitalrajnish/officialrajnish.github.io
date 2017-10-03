@@ -20,6 +20,9 @@ a {
 a:hover {
   color: #6633ff;
 }
+button{
+  background-color: black;
+}
 
 /* Section Styles */
 
